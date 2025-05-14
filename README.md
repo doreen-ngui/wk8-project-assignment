@@ -25,5 +25,5 @@ A GitHub repository
 ## Entity-Relationship Diagram (ERD)
 Here’s the ERD for the system, showing table relationships:
 
-🔗 ERD Diagram: ![Smartfaredb drawio](https://github.com/user-attachments/assets/2182f454-15cb-4848-84d7-fbc46f770b5a)
+ ![Smartfaredb drawio](https://github.com/user-attachments/assets/2182f454-15cb-4848-84d7-fbc46f770b5a)
 
